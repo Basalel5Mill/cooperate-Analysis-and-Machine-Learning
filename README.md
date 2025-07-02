@@ -12,7 +12,7 @@ A Streamlit-based dashboard for analyzing corporate financial data with machine 
 
 ## Demo
 
-https://github.com/user-attachments/assets/preview.mov
+https://github.com/Basalel5Mill/cooperate-Analysis-and-Machine-Learning/blob/8d0382aa6afe4000ae0ca9f4525eb7af1aa71a93/preview.mov
 
 *Click the button above to watch the interactive dashboard demo*
 
