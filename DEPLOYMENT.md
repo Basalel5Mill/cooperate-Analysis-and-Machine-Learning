@@ -135,3 +135,4 @@ For Railway deployment, set these environment variables in Railway dashboard:
 - Railway Documentation: https://docs.railway.app
 - Streamlit Documentation: https://docs.streamlit.io
 - GitHub Issues: Create issues in your repository
+- try free in render.com
