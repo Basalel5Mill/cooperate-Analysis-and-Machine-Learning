@@ -11,8 +11,7 @@ A Streamlit-based dashboard for analyzing corporate financial data with machine 
 - 📱 Responsive layout for all devices
 
 ## Demo
-
-[![Dashboard Demo](https://img.shields.io/badge/🎬-Click%20to%20Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/preview.mov)
+<img src="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/preview.mov">
 
 *Click the button above to watch the interactive dashboard demo*
 
