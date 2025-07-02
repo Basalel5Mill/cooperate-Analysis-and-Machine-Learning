@@ -12,7 +12,10 @@ A Streamlit-based dashboard for analyzing corporate financial data with machine 
 
 ## Demo
 
-📹 **[Watch Preview Video](https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/preview.mov)** - See the dashboard in action
+<video width="100%" controls>
+  <source src="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/preview.mov" type="video/quicktime">
+  Your browser does not support the video tag. <a href="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/preview.mov">Download the video</a>
+</video>
 
 ## Local Development
 
