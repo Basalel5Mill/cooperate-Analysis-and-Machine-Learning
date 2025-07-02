@@ -12,10 +12,9 @@ A Streamlit-based dashboard for analyzing corporate financial data with machine 
 
 ## Demo
 
-<video width="100%" controls>
-  <source src="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/preview.mov" type="video/quicktime">
-  Your browser does not support the video tag. <a href="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/preview.mov">Download the video</a>
-</video>
+[![Watch Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo%20Video-blue?style=for-the-badge)](https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/preview.mov)
+
+*Click the button above to watch the dashboard demo*
 
 ## Local Development
 
