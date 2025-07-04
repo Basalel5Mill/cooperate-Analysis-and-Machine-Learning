@@ -16,6 +16,7 @@ A Streamlit-based dashboard for analyzing corporate financial data with machine 
   <img src="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/pre-3.gif" alt="Blog Post Automation Workflow" />
 </p>
 
+[Watch the demo video on YouTube](https://www.youtube.com/watch?v=xy21fO1WTBg)
 
 
 *Click the button above to watch the interactive dashboard demo*
